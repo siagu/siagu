@@ -1,0 +1,5 @@
+{
+	"ip":"siagu.aternos.me",
+	"port": "23657",
+	"name": "asdfghjkl"
+}
